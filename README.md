@@ -11,8 +11,6 @@ We are preparing additional datasets and modules, which will be released in futu
 
 ## Citation
 
----
-
 ```bibtex
 @inproceedings{gan2025aligned,
   title={Aligned or Apart? Multi-Agent Insights into Consumer and Brand Messaging Discrepancies},
