@@ -1,6 +1,6 @@
 # Aligned or Apart? Multi-Agent Insights into Consumer and Brand Messaging Discrepancies
 
- **ACM Multimedia 2025** [paper](https://dl.acm.org/doi/10.1145/3746027.3755738)
+ **ACM Multimedia 2025** [Paper](https://dl.acm.org/doi/10.1145/3746027.3755738)
 
 *Haotian Gan, Yudong Li, WanYue Li, and Weidong Tang*
 
