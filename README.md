@@ -21,10 +21,8 @@ opim/                     OPIM package (import as `opim`)
 data/
   xiaohongshu/text/       user-generated notes, one JSONL file per brand
   xiaohongshu/images/     user-generated images, one folder per brand
-  xiaohongshu/pairs.jsonl note-to-image links
   weibo/text/             official brand posts, one JSONL file per brand
   weibo/images/           official brand images, one folder per brand
-  weibo/samples.jsonl     released Weibo records and image files per brand
 requirements.txt
 ```
 
@@ -62,18 +60,6 @@ Weibo post (`data/weibo/text/<Brand>.jsonl`):
   "attitudes_count": 41,
   "comments_count": 6,
   "reposts_count": 2
-}
-```
-
-Note-to-image link (`data/xiaohongshu/pairs.jsonl`):
-
-```json
-{
-  "brand": "Chanel",
-  "record_id": "Record identifier of the note",
-  "source_id": "Source note identifier",
-  "publish_date_date": "YYYYMMDD",
-  "image_path": "data/xiaohongshu/images/Chanel/<file>.jpg"
 }
 ```
 
