@@ -104,3 +104,7 @@ image_report = image_agent.process_folder("data/xiaohongshu/images/Chanel", outp
   year={2025}
 }
 ```
+
+## License
+
+This project is released under the [Apache License 2.0](LICENSE).
